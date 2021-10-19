@@ -1,0 +1,31 @@
+.centrar{
+    text-align: center;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+table {
+    margin: auto;
+    border-spacing: 15px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+caption{
+    font-family: 'Luckiest Guy', cursive;
+}
+
+footer{
+    padding: 50px;
+    height: 200px;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+body{
+    background-color: lightyellow;
+}
